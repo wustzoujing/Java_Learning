@@ -1,3 +1,5 @@
+package com.test.obj;
+
 /**
  * Created by zoujing on 2017/5/10.
  *
@@ -14,7 +16,9 @@
         }
         public static void main(String[] args) {
             Employee emp = new Employee("John Doe");
-            System.out.println(emp.getName());
+
+            //System.out.println(emp.getName());
+            System.out.println(emp.getClass());
         }
     }
 

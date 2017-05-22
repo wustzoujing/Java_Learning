@@ -1,3 +1,5 @@
+package com.test.obj;
+
 /**
  * Created by zoujing on 2017/5/11.
  */
